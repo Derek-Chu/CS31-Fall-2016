@@ -1,0 +1,4 @@
+﻿  rats.cpp
+c:\cs31\project7\project7\rats.cpp(956): warning C5030: attribute 'gnu::unused' is not recognized
+  Project7.vcxproj -> C:\CS31\Project7\Debug\Project7.exe
+  Project7.vcxproj -> C:\CS31\Project7\Debug\Project7.pdb (Partial PDB)

@@ -1,0 +1,10 @@
+﻿  compile_error.cpp
+c:\cs31\project1\project1\compile_error.cpp(16): error C2678: binary '<<': no operator found which takes a left-hand operand of type 'std::istream' (or there is no acceptable conversion)
+  c:\cs31\project1\project1\compile_error.cpp(16): note: could be 'built-in C++ operator<<(bool, int)'
+  c:\cs31\project1\project1\compile_error.cpp(16): note: while trying to match the argument list '(std::istream, int)'
+c:\cs31\project1\project1\compile_error.cpp(20): error C2065: 'pctHillary': undeclared identifier
+c:\cs31\project1\project1\compile_error.cpp(27): error C2065: 'pctHillary': undeclared identifier
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  original.cpp
+  logic_error.cpp

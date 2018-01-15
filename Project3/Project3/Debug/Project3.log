@@ -1,0 +1,5 @@
+﻿  poll.cpp
+c:\cs31\project3\project3\poll.cpp(24): warning C4018: '<': signed/unsigned mismatch
+c:\cs31\project3\project3\poll.cpp(49): warning C4018: '>=': signed/unsigned mismatch
+c:\cs31\project3\project3\poll.cpp(73): warning C4018: '<': signed/unsigned mismatch
+LINK : fatal error LNK1168: cannot open C:\CS31\Project3\Debug\Project3.exe for writing
